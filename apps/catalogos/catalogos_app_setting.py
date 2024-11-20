@@ -1,0 +1,12 @@
+CATALOGOS_SETTING_APP = ['apps.catalogos.enfermedades',
+                        'apps.catalogos.estado_compra',
+                        'apps.catalogos.estado_de_cita',
+                        'apps.catalogos.estado_venta',
+                        'apps.catalogos.mascota',
+                        'apps.catalogos.medicamento',
+                        'apps.catalogos.presentacion',
+                        'apps.catalogos.proveedor',
+                        'apps.catalogos.raza',
+                        'apps.catalogos.tipo_mascota',
+                        'apps.catalogos.unidad_medida',
+                         ]
